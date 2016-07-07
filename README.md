@@ -2,11 +2,7 @@
 
 This is a custom widget for Android, which uesd for showing grid pictures, and show the big pictures.
 
-![](http://ac-qygvx1cc.clouddn.com/ee5906c846ad3346.png)
-
-
 ![nine_grid_show_image](https://raw.githubusercontent.com/captain-miao/me.github.com/master/animation/nine_grid_show_image_2.gif)
-
 
 	
 ### Thanks
