@@ -113,7 +113,7 @@ public class ShowBigImageActivity extends BaseActivity {
         AnimatorSet pictureAnim = new AnimatorSet();
 
 
-        pictureAnim.playTogether(translateX, translateY, scaleDownX,scaleDownY);
+        pictureAnim.playTogether(translateX, translateY, scaleDownX, scaleDownY);
         pictureAnim.setDuration(600);
         pictureAnim.setInterpolator(new AccelerateDecelerateInterpolator());
 

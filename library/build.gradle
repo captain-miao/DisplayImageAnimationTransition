@@ -5,13 +5,13 @@ apply plugin: 'com.jfrog.bintray'
 version = "1.0.2"
 
 android {
-    compileSdkVersion 23
-    buildToolsVersion "23.0.3"
+    compileSdkVersion 24
+    buildToolsVersion "24.0.2"
     resourcePrefix "ninegridimageview__"
 
     defaultConfig {
         minSdkVersion 14
-        targetSdkVersion 23
+        targetSdkVersion 24
         versionCode 1
         versionName "1.0"
     }
